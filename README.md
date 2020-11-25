@@ -1,3 +1,3 @@
 # todoey_flutter
 
-![](gif/todoey.gif)
+<img src="gif/todoey.gif" width="400" height="790">
